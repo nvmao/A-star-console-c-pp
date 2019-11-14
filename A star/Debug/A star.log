@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Project\repos\A star\A star\Source.cpp(476,22): warning C4018: '<': signed/unsigned mismatch
+D:\Project\repos\A star\A star\Source.cpp(557,21): warning C4018: '<': signed/unsigned mismatch
+  A star.vcxproj -> D:\Project\repos\A star\Debug\A star.exe
